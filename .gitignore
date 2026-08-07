@@ -8,7 +8,10 @@
 # Crash log files
 crash.log
 crash.*.log
+<<<<<<< HEAD
 
+=======
+>>>>>>> d5b7319a42e761db21cdb720d2299e4229927c20
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
 override.tf
